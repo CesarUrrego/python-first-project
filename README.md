@@ -1,2 +1,6 @@
 # python-first-project
-This is my first project in python usando git
+
+## Description
+
+En este proyecto voy a trabajar en por primera vez en python usando git.
+
